@@ -7,6 +7,7 @@ Author - Gulafsha Khatoon
 
 This project contains a simple Tic Tac Toe game.
 It allows two players to play the game using X and O.
+The game uses basic programming logic and is easy to uderstand.
 
 ## Features
 - Graphical user interface
