@@ -37,3 +37,7 @@ The website acts as a single platform where users can explore NGOs from differen
 The project is developed as a demonstration website using standard web technologies.
 HTML is used to structure the content, CSS is used for layout and design, and JavaScript is used for interactivity.
 The system presents NGO information in a clear, organized, and easy-to-use format.
+
+## website link
+See the NGO Website below given link. 
+https://share.google/9tywoEpLJJNoYpNwy
