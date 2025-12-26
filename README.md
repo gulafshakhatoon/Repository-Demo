@@ -22,7 +22,7 @@ The system checks the game status after each move.
 They provides a reset option to start a new game.
 
 
-## Helping Hands – NGO Information Website (Demo Project)
+# Helping Hands – NGO Information Website (Demo Project)
 Helping Hands is a web-based project that provides clear and organized information about non-governmental organizations (NGOs).
 The website acts as a single platform where users can explore NGOs from different social sectors.
 
